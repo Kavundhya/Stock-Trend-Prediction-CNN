@@ -1,0 +1,17 @@
+Start,End,Duration,Exposure Time [%],Equity Final [$],Equity Peak [$],Return [%],Buy & Hold Return [%],Return (Ann.) [%],Volatility (Ann.) [%],CAGR [%],Sharpe Ratio,Sortino Ratio,Calmar Ratio,Alpha [%],Beta,Max. Drawdown [%],Avg. Drawdown [%],Max. Drawdown Duration,Avg. Drawdown Duration,# Trades,Win Rate [%],Best Trade [%],Worst Trade [%],Avg. Trade [%],Max. Trade Duration,Avg. Trade Duration,Profit Factor,Expectancy [%],SQN,Kelly Criterion,_strategy,_equity_curve,_trades
+2024-08-20,2025-07-02,316 days,0.0,10000.0,10000.0,0.0,12.435621999546074,0.0,0.0,0.0,,,,0.0,0.0,-0.0,,,,0,,,,,,,,,,,SlopeDetectionStrategy,"             Equity  DrawdownPct  DrawdownDuration
+2024-08-20  10000.0          0.0               NaN
+2024-08-21  10000.0          0.0               NaN
+2024-08-22  10000.0          0.0               NaN
+2024-08-23  10000.0          0.0               NaN
+2024-08-26  10000.0          0.0               NaN
+...             ...          ...               ...
+2025-06-26  10000.0          0.0               NaN
+2025-06-27  10000.0          0.0               NaN
+2025-06-30  10000.0          0.0               NaN
+2025-07-01  10000.0          0.0               NaN
+2025-07-02  10000.0          0.0               NaN
+
+[217 rows x 3 columns]","Empty DataFrame
+Columns: [Size, EntryBar, ExitBar, EntryPrice, ExitPrice, SL, TP, PnL, ReturnPct, EntryTime, ExitTime, Duration, Tag]
+Index: []"
